@@ -1,0 +1,1 @@
+SELECT * FROM gdb0041.sales_postinv_discount;
