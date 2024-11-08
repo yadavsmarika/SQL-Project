@@ -1,1 +1,0 @@
-SELECT * FROM gdb0041.sales_preinv_discount;
